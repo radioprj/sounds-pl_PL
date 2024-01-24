@@ -13,7 +13,7 @@ lub skorzystać z pliku/skryptu np http://fm-poland.pl/files/updatewav
 
 **cd /usr/local/bin/**
 
-**sudo wget http://fm-poland.pl/files/updatewav**
+**sudo wget -O updatewav http://fm-poland.pl/files/updatewav**
 
 **sudo chmod 0755 updatewav**
 
