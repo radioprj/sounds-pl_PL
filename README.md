@@ -13,7 +13,9 @@ i rozpakowac go na swoim kompuetrze
 lub skorzystać z pliku/skryptu np http://fm-poland.pl/files/updatewav
 
 cd /usr/local/bin/
+
 sudo wget http://fm-poland.pl/files/updatewav
+
 sudo chmod 0755 updatewav
 
 nastepnie uruchamiając skrypt na swoim komputerze kiedy chce sie sprawdzić lub zaktualizować pliki WAV
