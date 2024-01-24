@@ -9,7 +9,7 @@ Nagrany komunikat / zapisany w formacie WAV gdzie pliki WAV musi mieć sample ra
 
 Aktualizacje plików można zrobić pobierąjc plik archiwum https://github.com/FM-POLAND/sounds-pl_PL/releases
 i rozpakowa go na swoim kompuetrze
-lub skorzystac z pliku/skryptu np http://fm-poland/pl/files/updatewav
+lub skorzystac z pliku/skryptu np http://fm-poland.pl/files/updatewav
 uruchmiając skrypt na swoim komputerze
 
 
