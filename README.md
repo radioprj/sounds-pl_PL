@@ -23,8 +23,9 @@ nastepnie uruchamiając skrypt na swoim komputerze kiedy chce sie sprawdzić lub
 
 **sudo updatewav**
 
+------------------------------
 
-Można skorzystać z rozwiazania: https://github.com/n7ipb/svxlink-google-tts lub https://cloud.google.com/text-to-speech
+Do tworzenia plików dźwiękowych można skorzystać z rozwiazania: https://github.com/n7ipb/svxlink-google-tts lub https://cloud.google.com/text-to-speech
 
 
 
