@@ -24,6 +24,8 @@ nastepnie uruchamiając skrypt na swoim komputerze kiedy chce sie sprawdzić lub
 **sudo updatewav**
 
 
+Można skorzystać z rozwiazania: https://github.com/n7ipb/svxlink-google-tts
+
 
 .
 
